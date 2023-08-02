@@ -1,2 +1,1 @@
-# rush_wordle
-Rush project Wordle made in 42 school at Hive with c++ language
+Here are Projects that are made at 42 school HIVE
